@@ -1,0 +1,13 @@
+{
+  "name": "test_ocr_exo_creez_une_api_restful",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "<duboiscecilepro@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.2",
+    "nodemon": "^2.0.15"
+  }
+}
